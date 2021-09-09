@@ -2,7 +2,8 @@
 File containing the computations for the forward-backward variant as derived in the Variational Conditional Dependence
 Hidden Markov Models.
 
-@author: Anonymous
+@author: Konstantinos P. Panousis
+Cyprus University of Technology
 """
 
 import torch
