@@ -1,7 +1,8 @@
 """
 Various util functions for the implementation.
 
-@author: Anonymous
+@author: Konstantinos P. Panousis
+Cyprus University of Technology
 """
 
 import torch
