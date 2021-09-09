@@ -1,7 +1,7 @@
 **Variational Conditional Dependence Hidden Markov Models for Skeleton-based Action Recognition**
 ---
 
-Code implementation for Variational Conditional Dependence Hidden Markov Models for Skeleton-based Action Recognition, ISCV'21 paper.
+Code implementation for Variational Conditional Dependence Hidden Markov Models for Skeleton-based Action Recognition, ISVC'21 paper.
 
 Run instructions:
 
