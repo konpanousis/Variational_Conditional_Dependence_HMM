@@ -1,8 +1,9 @@
 """
 Script file for running the hierarchical HMM extension introduced in Variational Conditional Dependence
-Hidden Markov Models for Human Action Recognition.
+Hidden Markov Models for Seleton-based Action Recognition.
 
-@author: Anonymous
+@author: Konstantinos P. Panousis
+Cyprus University of Technology
 """
 import torch
 import torch.nn.functional as F
