@@ -1,7 +1,8 @@
 """
 Various functions to read the data.
 
-@author: Anonymous
+@author: Konstantinos P. Panousis
+Cyprus University of Technology
 """
 
 import numpy as np
